@@ -17,5 +17,5 @@ class Suma {
 $suma = new Suma(7, 8);
 $resultado = $suma->calcularSuma();
 
-echo "La suma de 7 y 8 es: $resultado";
+echo "La suma de 7 y 8 esssssss: $resultado";
 ?>
